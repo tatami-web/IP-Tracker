@@ -12,9 +12,9 @@
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="./assets/00.png" alt="Image 2" style="width: 32%;"/>
-  <img src="./assets/01.png" alt="Image 6" style="width: 32%;"/>
+  <img src="./assets/01.png" alt="Image 1" style="width: 32%;"/>
   <img src="./assets/02.png" alt="Image 2" style="width: 32%;"/>
+  <img src="./assets/03.png" alt="Image 3" style="width: 32%;"/>
 </div>
 
 
