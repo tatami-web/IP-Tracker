@@ -12,9 +12,9 @@
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="./assets/01.png" alt="Image 1" style="width: 50%;"/>
-  <img src="./assets/02.png" alt="Image 2" style="width: 50%;"/>
-  <img src="./assets/03.png" alt="Image 3" style="width: 50%;"/>
+  <img src="./assets/01.png" alt="Image 1" style="width: 40%;"/>
+  <img src="./assets/02.png" alt="Image 2" style="width: 40%;"/>
+  <img src="./assets/03.png" alt="Image 3" style="width: 40%;"/>
 </div>
 
 
@@ -73,10 +73,6 @@
 
 - The extension depends on external APIs, so internet access is required.
 - IPv6 addresses are not supported; the extension focuses solely on IPv4.
-
-## Overview
-
-**IP Tracker:** is a lightweight and user-friendly extension designed to display the user's current public IPv4 address and country flag. It leverages external APIs to fetch IP and geolocation data and includes a caching mechanism to prevent excessive API requests. Additionally, it features a refresh button with a cooldown and a visual animation to enhance the user experience.
 
 ## License
 
